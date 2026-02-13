@@ -31,6 +31,12 @@ exclude_list.txt
 *.swo
 .claude
 
+# AI/IDE plan files
+.limcode/
+curl参考.txt
+index.html
+响应参考.json
+
 # OS
 .DS_Store
 Thumbs.db
